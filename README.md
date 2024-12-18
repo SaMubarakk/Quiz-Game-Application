@@ -32,4 +32,5 @@ The **Quiz Game Application** is a client-server system implemented in C that al
 3. Run the compiled codes:
 
     Write `./server` afterthat `./client` each in a different Terminal tabs.
+   
     Repeat `./client` to connect more clients.
