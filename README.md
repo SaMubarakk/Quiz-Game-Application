@@ -1,5 +1,5 @@
 # Quiz Game Application
-
+---
 ## Overview
 The **Quiz Game Application** is a client-server system implemented in C that allows multiple users to engage in a real-time quiz. It utilizes TCP/IP sockets for communication, enabling simultaneous connections and interactive gameplay.
 
