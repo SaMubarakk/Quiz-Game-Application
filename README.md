@@ -10,7 +10,7 @@ The **Quiz Game Application** is a client-server system implemented in C that al
 
 ## Technical Details
 
-### Language: C
+- **Language**: C both for server & client
 - **Networking**: TCP/IP sockets for communication.
 - **Multi-Computations**: Multi-threading to handle multiple clients.
 
