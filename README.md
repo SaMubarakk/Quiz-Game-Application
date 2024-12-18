@@ -9,7 +9,7 @@ The **Quiz Game Application** is a client-server system implemented in C that al
 - Score calculation: Final scores are displayed for all users at the end of the quiz.
 
 ## Technical Details
-##- **Language**: C
+###- **Language**: C
 - **Networking**: TCP/IP sockets for communication.
 - **Multi-Computations**: Multi-threading to handle multiple clients.
 
